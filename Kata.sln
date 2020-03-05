@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata", "BowlingKata\Kata.csproj", "{F79B907C-ADA8-4F8D-A328-FB757138E269}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata", "Katas\Kata.csproj", "{F79B907C-ADA8-4F8D-A328-FB757138E269}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingKataTests", "BowlingKataTests\BowlingKataTests.csproj", "{D8F38F6C-5460-450C-B76F-FEA315B55C4E}"
 EndProject
