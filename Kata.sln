@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata", "Katas\Kata.csproj", "{F79B907C-ADA8-4F8D-A328-FB757138E269}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingKataTests", "BowlingKataTests\BowlingKataTests.csproj", "{D8F38F6C-5460-450C-B76F-FEA315B55C4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingKataTests", "BowlingTests\BowlingKataTests.csproj", "{D8F38F6C-5460-450C-B76F-FEA315B55C4E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringCalculatorTests", "StringCalculatorTests\StringCalculatorTests.csproj", "{56D9EED2-BB0A-4357-AB11-709BEC2CE425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralsTests", "RomanNumeralsKata\RomanNumeralsTests.csproj", "{331831EE-D92E-4146-80B9-F3F4061F9966}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralsTests", "RomanNumeralsTests\RomanNumeralsTests.csproj", "{331831EE-D92E-4146-80B9-F3F4061F9966}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
