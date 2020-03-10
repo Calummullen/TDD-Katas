@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace BowlingKata
+﻿namespace KataSolutions
 {
     class Program
     {
         static void Main(string[] args)
         {
+            // Gilded Rose Implementation Start //
+
+            // Gilded Rose Implementation End //
         }
     }
 }
